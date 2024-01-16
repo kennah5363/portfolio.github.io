@@ -65,6 +65,7 @@ body {
 
 .home-content {
     max-width: 600px;
+    transform: translate(-10% ,30%);
 }
 .home-content h3 {
     font-size: 32px;
